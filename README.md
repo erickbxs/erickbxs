@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Erick Borges</h1>
-<h3 align="center">Estudante de Desenvolvimento Web Full-Stack do Brasil.</h3>
+<h3 align="center">Estudante de Desenvolvimento Web Full-Stack no Brasil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickbxs&label=Profile%20views&color=0e75b6&style=flat" alt="erickbxs" /> </p>
 
