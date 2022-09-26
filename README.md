@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/erickbxs" target="blank"><img src="https://img.shields.io/twitter/follow/erickbxs?logo=twitter&style=for-the-badge" alt="erickbxs" /></a> </p>
 
-- 🌱 Atualmente eu estou aprendendo: **React, Node MySQL, CCS, HTML, Docker, Typescript, MongoDB e Python.**
+- 🌱 Atualmente eu estou aprendendo: ** Node MySQL, Docker, MongoDB, Java e Python.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no link: [https://github.com/erickbxs?tab=repositories](https://github.com/erickbxs?tab=repositories)
 
-- 💬 Pergunte-me sobre, **Html,CCS e JavaScript.**
+- 💬 Pergunte-me sobre, **Html,CSS,JavaScript, React e Sobre Testes Automatizados.**
 
 - 📫 Para entrar em contato comigo: **erickbxs@gmail.com**
 
-- ⚡ Fato interessante sobre mim, **Eu sou um engenheiro civil, em transição de carreira, por isso estou construindo uma nova carreira. xD**
+- ⚡ Fato interessante sobre mim, **Eu sou um engenheiro civil, em transição de carreira para TI, por isso mesmo estou cursando Sistema de Informações, Bacharelado, além disso estou a caminho de finalizar meu curso de programação na Trybe. xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
