@@ -1,5 +1,5 @@
 # 💫 About Me:
- Atualmente eu estou aprendendo: ** Node MySQL, Docker, MongoDB, Java e Python.**<br><br> Todos os meus projetos estão disponíveis no link: https://github.com/erickbxs?tab=repositories<br><br> Pergunte-me sobre, Html,CSS,JavaScript, React e Sobre Testes Automatizados.<br><br> Para entrar em contato comigo: erickbxs@gmail.com<br><br> Fato interessante sobre mim, Eu sou um engenheiro civil, em transição de carreira para TI, por isso mesmo estou cursando Sistema de Informações, Bacharelado, além disso estou a caminho de finalizar meu curso de programação na Trybe. 
+ Atualmente eu estou aprendendo: ** Node MySQL, Docker, MongoDB, Java e Python.**<br><br> Todos os meus projetos estão disponíveis no link: https://github.com/erickbxs?tab=repositories<br><br> Pergunte-me sobre, Html,CSS,JavaScript, React e Sobre Testes Automatizados.<br><br> Para entrar em contato comigo: erickbxs@gmail.com<br><br> Fato interessante sobre mim, Eu sou um engenheiro civil, porém sempre amei a área de TI, e por isso mesmo estou cursando Sistema de Informações, além disso estou concluindo meu curso de programação na Trybe. 
 
 
 ## 🌐 Socials:
